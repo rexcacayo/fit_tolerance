@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 Ricardo Lugaresi
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 bl_info = {'name': 'Fit Tolerance', 'author': 'Ricardo Lugaresi', 'version': (1, 0, 0),
            'blender': (4, 2, 0), 'location': 'Vista 3D > N > Fit Tolerance',
            'description': 'Agujeros y ejes a medida según el material, huecos para insertos de rosca '

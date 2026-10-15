@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 Ricardo Lugaresi
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 """Lógica de Fit Tolerance: tabla de materiales, ajuste de agujeros y ejes, insertos de
 rosca, chaflán anti pata de elefante y pieza de prueba. Todo en milímetros.
 
